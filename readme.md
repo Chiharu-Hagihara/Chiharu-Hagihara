@@ -1,7 +1,8 @@
 ![Image of readmePicture](https://github.com/Chiharu-Hagihara/Chiharu-Hagihara/blob/master/readmePicture.png?raw=true)
 __Hi! ( ﾟ◡ﾟ)/   
 My name is Chiharu-Hagihara.  
-Please call me MEC.__
+Please call me MEC.   
+Im 15 years old.__
 
 I am Beginner Engineer, from Japan.    
 I make a variety of software.  
