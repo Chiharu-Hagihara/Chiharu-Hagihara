@@ -4,6 +4,11 @@ My name is Chiharu-Hagihara.
 Please call me MEC.   
 Im 15 years old.__
 
+__My Stats__   
+![Top Languages Card(Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiharu-Hagihara&layout=compact)
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Chiharu-Hagihara&show_icons=true&count_private=true)
+
 I am Beginner Engineer, from Japan.    
 I make a variety of software.  
 
@@ -22,7 +27,6 @@ Now Learning:
 ・Go     
 ・C++      
 ・Flutter(Dart)     
-
 
 __My Email Address__   
 address: chiharuhagihara803@gmail.com
