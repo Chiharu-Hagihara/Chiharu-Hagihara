@@ -28,7 +28,11 @@ Now Learning:
 ・C++      
 ・Flutter(Dart)     
 ・DeepLearning(Machine Learning)    
-・SQL
+・SQL    
+・JavaScript     
+・PHP       
+・TypeScript      
+・HTML
 
 __My Email Address__   
 address: chiharuhagihara803@gmail.com
