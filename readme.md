@@ -8,7 +8,7 @@ __My Stats__
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Chiharu-Hagihara&show_icons=true&count_private=true)
 
-I am Beginner Engineer, from Japan.    
+I am programmer, from Japan.    
 I make a variety of software.  
 
 I'm currently doing ADMIN on MECS and Helper on Man10Server.   
