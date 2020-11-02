@@ -34,4 +34,4 @@ Now Learning:
 ・HTML
 
 __My Email Address__   
-address: chiharuhagihara803@gmail.com
+address: chiharuhagihara803@outlook.jp
