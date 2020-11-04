@@ -17,6 +17,7 @@ I love listening to music. Lately I've been listening to Avicii, SEKAI NO OWARI,
 
 __Can Languages__    
 Fluent in:   
+・Java
 ・Kotlin   
 ・C#      
 ・Ruby  
