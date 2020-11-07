@@ -22,13 +22,13 @@ Fluent in:
 ・C#      
 ・Ruby  
 ・Python     
+・SQL       
 
 Now Learning:    
 ・Go     
 ・C++      
 ・Flutter(Dart)     
 ・DeepLearning(Machine Learning)    
-・SQL    
 ・JavaScript     
 ・PHP       
 ・TypeScript      
