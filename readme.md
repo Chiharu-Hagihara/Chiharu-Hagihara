@@ -32,7 +32,8 @@ Now Learning:
 ・JavaScript     
 ・PHP       
 ・TypeScript      
-・HTML
+・HTML      
+・Julia
 
 __My Email Address__   
 address: chiharuhagihara803@outlook.jp
