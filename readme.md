@@ -1,9 +1,9 @@
-__Hi! ( ﾟ◡ﾟ)/   
+__Hi! ( ﾟ◡ﾟ)/  
 My name is Chiharu-Hagihara.  
-Please call me MEC.   
+Please call me MEC.  
 Im 15 years old.__
-
-__My Stats__
+  
+__My Stats__  
 
 ![Top Languages Card(Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiharu-Hagihara&layout=compact)
 
@@ -14,44 +14,25 @@ I am programmer, from Japan.
 I make a variety of software.
 
 
-__Can Languages__
+__Can Languages__  
+Fluent in:  
+・Java  
+・Kotlin  
+・C#  
+・Ruby  
+・Python  
+・SQL  
 
-Fluent in:
+Now Learning:  
+・Go  
+・C++  
+・Flutter(Dart)  
+・DeepLearning(Machine Learning)  
+・JavaScript  
+・PHP  
+・TypeScript  
+・HTML  
+・Julia  
 
-・Java
-
-・Kotlin
-
-・C#
-
-・Ruby
-
-・Python
-
-・SQL
-
-
-Now Learning:
-
-・Go
-
-・C++
-
-・Flutter(Dart)
-
-・DeepLearning(Machine Learning)
-
-・JavaScript
-
-・PHP
-
-・TypeScript
-
-・HTML
-
-・Julia
-
-
-__My Email Address__
-
+__My Email Address__  
 address: chiharuhagihara803@outlook.jp
