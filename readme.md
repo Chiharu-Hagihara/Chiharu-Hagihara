@@ -21,17 +21,12 @@ Fluent in:
 ・C#  
 ・Ruby  
 ・Python  
-・SQL  
-
-Now Learning:  
 ・Go  
+
+Now Learning:   
 ・C++  
 ・Flutter(Dart)  
 ・DeepLearning(Machine Learning)  
-・JavaScript  
-・PHP  
-・TypeScript  
-・HTML  
 ・Julia  
 
 __My Email Address__  
