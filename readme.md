@@ -23,7 +23,7 @@ Fluent in:
 ・Ruby  
 ・Python  
 
-__Tools__
+__Tools__  
 ・Grafana  
 ・MySQL  
 ・MongoDB  
