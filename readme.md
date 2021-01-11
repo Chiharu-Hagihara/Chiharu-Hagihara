@@ -14,14 +14,19 @@ I am programmer, from Japan.
 I make a variety of software.
 
 
-__Can Languages__  
+__Languages__  
 Fluent in:  
 ・Java  
 ・Kotlin  
+・Scala
 ・C#  
 ・Ruby  
 ・Python  
-・Go  
+
+__Tools__
+・Grafana  
+・MySQL  
+・MongoDB  
 
 Now Learning:   
 ・C++  
