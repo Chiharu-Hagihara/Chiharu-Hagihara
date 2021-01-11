@@ -14,8 +14,7 @@ I am programmer, from Japan.
 I make a variety of software.
 
 
-__Languages__  
-Fluent in:  
+__Languages:__  
 ・Java  
 ・Kotlin  
 ・Scala
@@ -23,7 +22,7 @@ Fluent in:
 ・Ruby  
 ・Python  
 
-__Tools__  
+__Tools:__  
 ・Grafana  
 ・MySQL  
 ・MongoDB  
