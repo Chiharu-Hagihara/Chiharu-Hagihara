@@ -17,7 +17,7 @@ I make a variety of software.
 __Languages:__  
 ・Java  
 ・Kotlin  
-・Scala
+・Scala  
 ・C#  
 ・Ruby  
 ・Python  
