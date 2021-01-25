@@ -24,6 +24,7 @@ __Languages:__
 
 __Tools:__  
 ・Grafana  
+・influxdb
 ・MySQL  
 ・MongoDB  
 ・Docker
