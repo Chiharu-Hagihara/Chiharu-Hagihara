@@ -9,7 +9,7 @@ __My Stats__
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Chiharu-Hagihara&show_icons=true&count_private=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chiharu-Hagihara1&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chiharu-Hagihara&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 I am programmer, from Japan.
 
