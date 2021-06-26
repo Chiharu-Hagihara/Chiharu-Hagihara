@@ -23,6 +23,7 @@ __Languages:__
 ・C#  
 ・Ruby  
 ・Python  
+・Julia  
 
 __Tools:__  
 ・Grafana  
@@ -35,7 +36,8 @@ Now Learning:
 ・C++  
 ・Flutter(Dart)  
 ・DeepLearning(Machine Learning)  
-・Julia  
+・redis  
+・PostgreSQL  
 
 __My Email Address__  
 address: chiharuhagihara803@outlook.jp
