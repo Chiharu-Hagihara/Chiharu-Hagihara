@@ -1,7 +1,7 @@
 __Hi! ( ﾟ◡ﾟ)/  
 My name is Chiharu-Hagihara.  
 Please call me MEC.  
-Im 15 years old.__
+Im 16 years old.__
   
 __My Stats__  
 
