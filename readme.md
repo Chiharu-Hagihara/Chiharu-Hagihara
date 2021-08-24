@@ -38,6 +38,3 @@ Now Learning:
 ・DeepLearning(Machine Learning)  
 ・redis  
 ・PostgreSQL  
-
-__My Email Address__  
-address: chiharu@chiharuhagihara.com
