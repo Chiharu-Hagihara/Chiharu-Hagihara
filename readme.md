@@ -35,6 +35,8 @@ __Tools:__
 Now Learning:   
 ・C++  
 ・Flutter(Dart)  
+・JavaScript  
+・TypeScript  
 ・DeepLearning(Machine Learning)  
 ・redis  
 ・PostgreSQL  
