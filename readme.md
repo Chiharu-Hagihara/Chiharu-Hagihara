@@ -1,6 +1,5 @@
 __Hi! ( ﾟ◡ﾟ)/  
-My name is Chiharu-Hagihara.  
-Please call me MEC.  
+I'm Chiharu-Hagihara.  
 Im 16 years old.__
   
 __My Stats__  
@@ -11,7 +10,7 @@ __My Stats__
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chiharu-Hagihara)](https://git.io/streak-stats)
 
-I am programmer, from Japan.
+I am a programmer, from Japan.
 
 I make a variety of software.
 
