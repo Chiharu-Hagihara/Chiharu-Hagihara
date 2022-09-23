@@ -1,6 +1,6 @@
 __Hi! ( ﾟ◡ﾟ)/  
 I'm Chiharu-Hagihara.  
-Im 16 years old.__
+Im 17 years old.__
   
 __My Stats__  
 
@@ -20,7 +20,6 @@ __Languages:__
 ・Kotlin  
 ・Scala  
 ・C#  
-・Ruby  
 ・Python  
 ・Julia  
 
@@ -34,7 +33,6 @@ __Tools:__
 Now Learning:   
 ・C++  
 ・Flutter(Dart)  
-・JavaScript  
 ・TypeScript  
 ・DeepLearning(Machine Learning)  
 ・redis  
