@@ -18,22 +18,23 @@ I make a variety of software.
 __Languages:__  
 ・Java  
 ・Kotlin  
-・Scala  
 ・C#  
 ・Python  
-・Julia  
 
 __Tools:__  
 ・Grafana  
 ・influxdb  
 ・MySQL  
 ・MongoDB  
-・Docker
+・Docker  
+・ProxmoxVE
 
 Now Learning:   
 ・C++  
 ・Flutter(Dart)  
-・TypeScript  
+・HTML  
+・CSS  
+・Rust  
 ・DeepLearning(Machine Learning)  
 ・redis  
 ・PostgreSQL  
