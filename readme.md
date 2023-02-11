@@ -27,7 +27,7 @@ __Tools:__
 ・MySQL  
 ・MongoDB  
 ・Docker  
-・ProxmoxVE
+・ProxmoxVE  
 
 Now Learning:   
 ・C++  
@@ -37,7 +37,7 @@ Now Learning:
 ・Rust  
 ・DeepLearning(Machine Learning)  
 ・redis  
-・PostgreSQL  
+・Doragonflydb  
 
 __E-Mail Address:__  
 chiharuhagihara.work@gmail.com
