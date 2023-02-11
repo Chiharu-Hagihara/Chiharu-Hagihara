@@ -1,4 +1,4 @@
-__Hi! ( ﾟ◡ﾟ)/  
+__Hi! ( ﾟ◡ ﾟ)/  
 I'm Chiharu-Hagihara.  
 Im 17 years old.__
   
