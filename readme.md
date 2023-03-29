@@ -37,7 +37,8 @@ Now Learning:
 ・Rust  
 ・DeepLearning(Machine Learning)  
 ・redis  
-・Doragonflydb  
+・Doragonflydb
+・Kubernetes  
 
 __E-Mail Address:__  
 chiharuhagihara.work@gmail.com
