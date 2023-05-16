@@ -37,7 +37,6 @@ Now Learning:
 ・Rust  
 ・DeepLearning(Machine Learning)  
 ・redis  
-・Doragonflydb
 ・Kubernetes  
 
 __E-Mail Address:__  
