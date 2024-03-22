@@ -32,11 +32,7 @@ __Tools:__
 Now Learning:   
 ・C++  
 ・Flutter(Dart)  
-・HTML  
-・CSS  
 ・Rust  
-・DeepLearning(Machine Learning)  
-・redis  
 ・Kubernetes  
 
 __E-Mail Address:__  
