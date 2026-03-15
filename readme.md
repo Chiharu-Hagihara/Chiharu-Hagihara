@@ -18,8 +18,13 @@ I make a variety of software.
 __Languages:__  
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs)](https://skillicons.dev)  
 
+__Database:__  
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)  
+・influxDB  
+
 __Tools:__  
-[![My Skills](https://skillicons.dev/icons?i=grafana,influx,mysql,mongodb,docker)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=grafana,docker)](https://skillicons.dev)  
+・influxDB  
 ・ProxmoxVE  
 
 Now Learning:   
