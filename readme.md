@@ -1,6 +1,6 @@
 __Hi! ( ﾟ◡ ﾟ)/  
 I'm Chiharu-Hagihara.  
-Im 19 years old.__
+I'm 20 years old.__
   
 __My Stats__  
 
@@ -10,30 +10,19 @@ __My Stats__
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Chiharu-Hagihara)](https://git.io/streak-stats)
 
-I am a programmer, from Japan.
+I am a programmer from Japan.
 
 I make a variety of software.
 
 
 __Languages:__  
-・Java  
-・Kotlin  
-・C#  
-・Python  
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,cs)](https://skillicons.dev)  
 
 __Tools:__  
-・Grafana  
-・influxdb  
-・MySQL  
-・MongoDB  
-・Docker  
+[![My Skills](https://skillicons.dev/icons?i=grafana,influx,mysql,mongodb,docker)](https://skillicons.dev)  
 ・ProxmoxVE  
 
 Now Learning:   
-・C++  
-・Flutter(Dart)  
-・Rust  
-・Kubernetes  
-
+[![My Skills](https://skillicons.dev/icons?i=cpp,flutter,rust,kubernetes)](https://skillicons.dev)  
 __E-Mail Address:__  
 chiharuhagihara.work@gmail.com
